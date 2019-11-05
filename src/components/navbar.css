@@ -1,7 +1,7 @@
 nav {
   display: flex;
   align-items: center;
-  background-color: palevioletred;
+  /* background-color: palevioletred; */
   color: white;
   padding: 0 20px;
 }
